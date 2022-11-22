@@ -4,5 +4,5 @@ Jinja2>=2.10
 MarkupSafe==1.0
 Werkzeug==0.16
 gunicorn==19.7.1
-pillow==6.2.0
+pillow==9.3.0
 gevent
